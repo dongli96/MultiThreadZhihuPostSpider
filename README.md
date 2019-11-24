@@ -1,4 +1,4 @@
-# ZhihuPostSpider
+# ZhihuPostSpider_Multi_thread
 ##### 这次的项目和我上一个项目：https://github.com/LiDong-96/Li_Lab 的目的一样，还是爬取知乎的文章然后分析赞数。只不过是个多线程版本。
 --------------
 原理
